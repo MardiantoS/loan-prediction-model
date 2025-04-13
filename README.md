@@ -53,7 +53,7 @@ Various classification models have been implemented and compared:
 
 ## Model Performance
 
-Model comparison based on ROC AUC scores from cross-validation:
+Model comparison based on Accuracy and ROC AUC scores from cross-validation:
 
 ### Scikit-learn Models
 
