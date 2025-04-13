@@ -136,9 +136,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 
 If you use or reference this code in your work, please cite it as:
-"Mardianto Hadiputro, Loan Approval Prediction Models, GitHub repository, 2025. Available at: https://github.com/[your-username]/loan-approval-prediction"
+
+Mardianto Hadiputro, Loan Approval Prediction Models, GitHub repository, 2025. Available at: [https://github.com/MardiantoS/loan-prediction-model](https://github.com/MardiantoS/loan-prediction-model)
 
 ## Acknowledgments
 
 - Walter Reade and Ashley Chow for creating the Kaggle competition
-- The scikit-learn, TensorFlow, and PyTorch team for their machine learning libraries
+- The scikit-learn, TensorFlow, and PyTorch team for their excellent machine learning libraries
